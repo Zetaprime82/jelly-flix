@@ -14,7 +14,7 @@
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@latest/default.css");
+@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/default.css");
 ```
 
 <h3>Custom  Version:</h3>
@@ -27,8 +27,8 @@
 <h3>Auto Update:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@latest/default.css");
-@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@latest/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/ZZetaprime82/jelly-flix@main/default.css");
+@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/addons/Logo.css");
 ```
 
 <h3>Custom Version:</h3>
@@ -43,12 +43,12 @@
 Jellyfin-Blue:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@9.0.4/addons/jf-blue.css");
+@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/addons/jf-blue.css");
 ```
 Jellyfin-Purple:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@9.0.4/addons/jf-purple.css");
+@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/addons/jf-purple.css");
 ```
 
 
