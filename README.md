@@ -27,8 +27,9 @@
 <h3>Auto Update:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/ZZetaprime82/jelly-flix@main/default.css");
+@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/default.css");
 @import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/crunchyroll-subtitles.css");
 ```
 
 <h3>Custom Version:</h3>
