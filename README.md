@@ -60,20 +60,20 @@ Jellyfin-Purple:
   </div>
   <div class="home">
     <h3 align="center">Home Page</h3>
-    <img src="https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/img/Home.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/img/Home.jpg">
   </div>  
   <div class="lib">
     <h3 align="center">Library</h3>
-    <img src="https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/img/Movies.jpg">
-    <img src="https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/img/TV%20Shows.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/img/Movies.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/img/TV%20Shows.jpg">
   </div>
   <div class="titleMov">
     <h3 align="center">Movie Title Page</h3>
-    <img src="https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/img/Title%20Page-Movie.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/img/Title%20Page-Movie.jpg">
   </div>
   <div class="titleTv">
     <h3 align="center">TV Show Title page</h3>
-    <img src="https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/img/Title%20Page-TV.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/img/Title%20Page-TV.jpg">
   </div>
 </div>
 <br>
