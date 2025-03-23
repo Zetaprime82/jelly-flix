@@ -14,28 +14,28 @@
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/default.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@latest/default.css");
 ```
 
 <h3>Custom  Version:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@<version-number>/default.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@<version-number>/default.css");
 ```
 
 <h3>With Logos(recommended):</h3>
 <h3>Auto Update:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/default.css");
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@latest/default.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@latest/addons/Logo.css");
 ```
 
 <h3>Custom Version:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@<version-number>/default.css");
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@<version-number>/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@<version-number>/default.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@<version-number>/addons/Logo.css");
 ```
 
 <br>
@@ -43,12 +43,12 @@
 Jellyfin-Blue:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@9.0.4/addons/jf-blue.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@9.0.4/addons/jf-blue.css");
 ```
 Jellyfin-Purple:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@9.0.4/addons/jf-purple.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/jelly-flix@9.0.4/addons/jf-purple.css");
 ```
 
 
