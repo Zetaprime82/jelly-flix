@@ -56,7 +56,7 @@ Jellyfin-Purple:
 <div class="imagesCont">
   <div class="Login">
     <h3 align="center">Login</h3>
-    <img src="https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@latest/img/Login.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/Zetaprime82/jelly-flix@main/img/Login.jpg">
   </div>
   <div class="home">
     <h3 align="center">Home Page</h3>
