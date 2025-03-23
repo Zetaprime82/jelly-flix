@@ -41,7 +41,11 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
 }
 
 /*Square Cards and Portrait Cards*/
+.pageTitleWithDefaultLogo {
 
+    background-image: url('https://ko4bep.net/img/nordflix.png');
+
+}
 #loginPage .squareCard {
   width: 50% !important;
   background: rgb(20, 20, 20) !important;
